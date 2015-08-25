@@ -10,7 +10,7 @@ Minimo icons are rendered at 192px with a 100x100px glyph centered in the square
 
 #####Color
 
-
+For version 5 of Minimo a color palette was created to keep things coherent. It is included in the PSD directory.
 
 #####Pixel Hinting
 
