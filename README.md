@@ -8,6 +8,10 @@ Calling all iconographers! Minimo is now open source, that means that anyone can
 
 Minimo icons are rendered at 192px with a 100x100px glyph centered in the square. Make sure either the height or width of the glyph is at least 100px. Or both if a squred icon is being used.
 
+#####Color
+
+
+
 #####Pixel Hinting
 
 Pixel hinting is a technique used in photoshop on shape layers to create those crisp lines you are used to seeing in quality icons. **This is a big deal to us.** The glyphs MUST BE PIXEL HINTED. If you already know how to do this, awesome, download the PSD's and get crackin'. If not, I have a quick video explanation [on YouTube](https://www.youtube.com/watch?v=zbE3iQV16wI)
